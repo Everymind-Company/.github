@@ -1,3 +1,4 @@
+% Everymind Company
 ## Hi there 👋 <a name="Hi"></a>
 
 <!--
